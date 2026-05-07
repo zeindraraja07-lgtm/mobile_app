@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "environment": "production",
+  "apiBaseUrl": "https://cekring.web.id",
+  "socketUrl": "https://cekring.web.id",
+  "livekitUrl": "wss://cekring.web.id",
+  "fallbackApiBaseUrls": [],
+  "forceMaintenance": false,
+  "maintenanceMessage": "Server sedang maintenance. Coba lagi nanti.",
+  "minSupportedAppVersion": "1.0.0"
+}
