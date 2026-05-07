@@ -3,7 +3,7 @@
   "environment": "production",
   "apiBaseUrl": "https://cekring.web.id",
   "livekitUrl": "wss://cekring.web.id",
-  "forceMaintenance": true,
+  "forceMaintenance": false,
   "maintenanceMessage": "Server sedang maintenance. Coba lagi nanti.",
   "minSupportedAppVersion": "1.0.0"
 }
